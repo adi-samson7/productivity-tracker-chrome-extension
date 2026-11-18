@@ -7,6 +7,7 @@ All data stays in your browser. There is no server, no account and no network ac
 ![Manifest V3](https://img.shields.io/badge/Chrome-Manifest%20V3-4285F4?logo=googlechrome&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Vanilla-F7DF1E?logo=javascript&logoColor=black)
 ![Storage](https://img.shields.io/badge/Data-100%25%20local-2e7d32)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 <p align="center">
   <img src="docs/screenshots/popup.png" alt="Productivity Tracker popup on a website" width="900">
@@ -25,6 +26,7 @@ All data stays in your browser. There is no server, no account and no network ac
 - [Known limitations](#known-limitations)
 - [Roadmap](#roadmap)
 - [Project information](#project-information)
+- [License](#license)
 
 ## Features
 
@@ -152,6 +154,7 @@ There is no backend, framework or build tooling.
 ├── onboarding.html / .js First-run setup
 ├── styles.css           Shared styles
 ├── icons/               Extension icons
+├── LICENSE              MIT license
 ├── lib/                 Bundled Chart.js and jsPDF
 └── docs/screenshots/    README images
 ```
@@ -191,3 +194,7 @@ Developed as an internship project.
 | **Domain** | Full Stack Web Development |
 | **Batch duration** | May 20th, 2025 to July 20th, 2025 |
 | **Mentor** | Neela Santhosh Kumar |
+
+## License
+
+This project is licensed under the [MIT License](LICENSE). The bundled libraries, Chart.js and jsPDF, are also MIT-licensed.
